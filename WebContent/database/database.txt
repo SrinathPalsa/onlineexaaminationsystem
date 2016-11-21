@@ -1,0 +1,44 @@
+TABLE 1	: muserinfo
+			
+FIELD NAME	DATA TYPE
+Loginid	Text
+Password	Text
+Firstname	Text
+          Lostname	Text
+         Birthdate	Text
+          Gender	Text
+Occupation	Text
+
+TABLE 2	: madmininfo
+	
+FIELD NAME	DATA TYPE
+Adminid	Text
+Adminpw	Text
+
+TABLE 3	: mquestions		
+FIELD NAME	DATA TYPE
+           Lang	Text
+Questype	Text
+           Quesno	Number
+Question	Text
+           Choice1	Text
+           Choice2	Text
+           Choice3	Text
+           Choice4	Text
+           Choice5	Text
+          Answer	Text
+
+
+
+TABLE NAME	: msubinfo
+			
+FIELD NAME	DATA TYPE
+Sub_code	Text
+Sub_title	Text
+
+
+
+
+
+
+
